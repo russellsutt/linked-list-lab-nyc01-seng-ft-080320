@@ -38,10 +38,6 @@ function indexAt(node, collection, linkedlist) {
   return index;
 }
 
-function insertNodeAt() {
-  
-}
-
-function deleteNodeAt(){
+function insertNodeAt(node, collection) {
   
 }
