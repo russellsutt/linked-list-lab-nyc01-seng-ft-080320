@@ -48,3 +48,5 @@ function insertNodeAt(index, newNodeAddress, linkedlist, collection) {
   collection[newNodeAddress].next = nextNodeAddress
   
 }
+
+function deleteNodeAt(index, linkedlist, collection) {
