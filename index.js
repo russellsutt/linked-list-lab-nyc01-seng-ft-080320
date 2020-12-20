@@ -37,3 +37,11 @@ function indexAt(node, collection, linkedlist) {
   }
   return index;
 }
+
+function insertNodeAt() {
+  
+}
+
+function deleteNodeAt(){
+  
+}
